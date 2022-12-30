@@ -9,7 +9,7 @@
     "average": "^0.1.0",
     "chai": "^4.2.0",
     "gnomon": "^1.5.0",
-    "mocha": "^7.0.0",
+    "mocha": "^10.2.0",
     "mocha-typescript": "^1.1.17",
     "nodemon": "^2.0.2",
     "nyc": "^15.0.0",
